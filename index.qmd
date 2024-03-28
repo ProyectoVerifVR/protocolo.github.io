@@ -1,12 +1,15 @@
----
-title: "protocolo.github.io"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
----
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+hola
+[contact me](mailto:mail.adadsda@gmail.com) 
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="/practicas.html" role="button" target="_blank" style="padding: 15px 30px;">AAAAAAAAAAAAA</a>
+</div>
+```
+

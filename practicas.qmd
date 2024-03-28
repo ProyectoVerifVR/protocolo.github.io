@@ -1,0 +1,12 @@
+---
+title: "Talleres"
+listing:
+  contents: talleres #talleres en orden 
+  sort: false
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

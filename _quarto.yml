@@ -8,8 +8,8 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+    left: 
+      - practicas.qmd
 format:
   html:
     theme: cosmo
