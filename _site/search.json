@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to my website!",
+    "title": "Bienvenido al protocolo para verificaciones en prototipos 3D",
     "section": "",
-    "text": "Welcome to my website!\nhola contact me\n\nAAAAAAAAAAAAA"
+    "text": "Bienvenido al protocolo para verificaciones en prototipos 3D\n\nCreado por estudiantes para\nCrea modelos en Gravity Sketch y evalúalos.\n\nDescárgalo"
   },
   {
     "objectID": "talleres/primero/index.html",
@@ -16,7 +16,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Sobre nosotras",
     "section": "",
     "text": "About this blog"
   },
@@ -26,5 +26,19 @@
     "title": "Talleres",
     "section": "",
     "text": "Primer taller\n\n\n\n\n\n\nblabla\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#css-index.css",
+    "href": "index.html#css-index.css",
+    "title": "Bienvenido al protocolo para verificaciones en prototipos 3D",
+    "section": "css: index.css",
+    "text": "css: index.css"
+  },
+  {
+    "objectID": "index.html#bienvenido-al-protocolo-para-verificaciones-en-prototipos-3d",
+    "href": "index.html#bienvenido-al-protocolo-para-verificaciones-en-prototipos-3d",
+    "title": "Inicio",
+    "section": "",
+    "text": "Crea modelos en Gravity Sketch y evalúalos.\n\nDescárgalo"
   }
 ]

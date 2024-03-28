@@ -5,11 +5,17 @@ website:
   title: "protocolo.github.io"
   navbar:
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-    left: 
+      - text: "Inicio"
+        href: "index.qmd"
       - practicas.qmd
+      - evidencias.qmd
+      - about.qmd
+  page-footer:
+    center:
+      - text: "Contáctanos"
+        href: "mailto:proyectoverificacionesvr@gmail.com"
+      - icon: github
+        href: https://github.com/protocoloVR/protocoloVR.github.io
 format:
   html:
     theme: cosmo

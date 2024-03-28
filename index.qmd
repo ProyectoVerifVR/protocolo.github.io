@@ -1,15 +1,30 @@
+---
+pagetitle: "Inicio"
+css: index.css
+---
 
-::: {#about-block}
+
+::: {.content-block}
+::: {.img}
+![](test.gif)
 :::
 
-# Welcome to my website!
 
-hola
-[contact me](mailto:mail.adadsda@gmail.com) 
+::: {.bottom-left}
+# Bienvenido al protocolo para verificaciones en prototipos 3D
 
-```{=html}
-<div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="/practicas.html" role="button" target="_blank" style="padding: 15px 30px;">AAAAAAAAAAAAA</a>
+### Creado por estudiantes para 
+Crea modelos en [Gravity Sketch](https://www.gravitysketch.com/) y evalúalos.
+
+::: {button}
+[Descárgalo](/practicas.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
+::: 
+:::
+:::
+
+
+<!-- ```{=html}
+<div  style="margin: 30px; text-align: left;">
+<a class="btn btn-primary" href="/practicas.html" role="button" target="_blank" style="padding: 15px 30px;">Descárgalo aquí</a>
 </div>
-```
-
+``` -->
