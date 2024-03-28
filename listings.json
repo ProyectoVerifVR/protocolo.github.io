@@ -1,9 +1,8 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/practicas.html",
     "items": [
-      "/posts/post-with-code/index.html",
-      "/posts/welcome/index.html"
+      "/talleres/primero/index.html"
     ]
   }
 ]
