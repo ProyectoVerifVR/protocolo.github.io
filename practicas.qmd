@@ -1,12 +1,46 @@
 ---
-title: "Talleres"
+title: "Protocolo"
+format:
+  html:
+    toc: false
+search: false
+execute:
+  echo: false
 listing:
-  contents: talleres #talleres en orden 
-  sort: false
-  type: grid
-  categories: false
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+  - id: practicas
+    template: practicas.ejs
+    contents: practicas.yml
+description:
+  imagenes no se que
 ---
+
+¡Don!
+And another one, that's right
+¡Don! (¡Don!)
+Dominicans, boricuas, hands up (¡Don!, ¡Don!)
+On your feet everybody, come on
+No hay pa' nadie pa', y me fui con los bachatero'
+Aventura
+Nasty
+Let me find out
+
+# Recomendaciones previas
+
+[Verso 1: Don Omar & Romeo Santos]
+Ella y yo
+Dos locos viviendo una aventura castigada por Dios
+Un laberinto sin salida donde el miedo se convierte en amor
+Somos su marido, ella y yo
+Mi esposa y yo
+Igual que ustedes, compartimos en la vida un eterno amor
+La dama perfecta, toda una belleza, ella es mi inspiración
+Somos feliz ella y yo, ella y yo
+Amigo, ella y yo
+Solos nos vemo' a escondidas para ahogar esta prohibida pasión
+Y aunque tiene dueño, yo solo tengo un sueño: ser su protector
+Somos su marido, ella y yo
+
+<a href="imgs/perro.zip" download="protocolo">
+<button >Descarga el Protocolo completo</button> 
+</a>
+<!-- class="button-34" -->

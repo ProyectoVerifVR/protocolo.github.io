@@ -1,7 +1,0 @@
----
-title: "Primer taller"
-author: "blabla"
-#image: "thumbnail.jpg"
----
-
-Holaaaaaa test

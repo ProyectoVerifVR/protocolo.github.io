@@ -1,0 +1,24 @@
+- category: Protocolo por secciones
+  description: |
+    Descarga la sección que requieras
+  tiles:
+    - title: Antes de
+      subtitle: aa
+      href: imgs/perro.jpg
+      thumbnail: imgs/perro.jpg
+    - title: Preparar
+      subtitle: for high quality print
+      href: imgs/perro.jpg
+      thumbnail: imgs/perro.jpg
+    - title: Construir
+      subtitle: for Office workflows
+      href: imgs/perro.jpg
+      thumbnail: imgs/perro.jpg
+    - title: No se
+      subtitle: with advanced layout
+      href: imgs/perro.jpg
+      thumbnail: imgs/perro.jpg
+    - title: a
+      subtitle: with advanced layout
+      href: imgs/perro.jpg
+      thumbnail: imgs/perro.jpg

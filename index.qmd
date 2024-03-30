@@ -1,26 +1,110 @@
 ---
 pagetitle: "Inicio"
 css: index.css
+page-layout: custom
+section-divs: false
 ---
 
-
+::: {.hero-banner}
 ::: {.content-block}
-::: {.img}
-![](test.gif)
+::: {}
+<video playsinline autoplay muted loop>
+     <source src="imgs/video.mp4" type="video/mp4">
+    Tu navegador no soporta reproducción de videos.
+</video>
+
+::: {.hero-text}
+# Bienvenido al protocolo para verificaciones de diseño en prototipos 3D
+
+Crea modelos y evalúalos en Realidad Virtual con [Gravity Sketch](https://www.gravitysketch.com/)
+
+[Descárgalo aquí](/practicas.qmd){.button-34  role="button"}
+:::
+:::
+:::
+
+::: {.header-text} 
+::: {.content-container}
+::: {.header-block}
+
+**Sigilosa** al pasar
+Sigilosa al pasar
+Esa loba es especial
+Mírala caminar, caminar
+
+¿Quién no ha querido una diosa licántropa
+En el ardor de una noche romántica?
+Mis aullidos son el llamado
+Yo quiero un lobo domesticado
+
+Al fin he encontrado un remedio infalible que borre del todo la culpa
+No pienso quedarme a tu lado mirando la tele y oyendo disculpas
+La vida me ha dado un hambre voraz, y tú apenas me das caramelos, ay
+Me voy con mis piernas y mi juventud por allá, aunque te maten los celos
+:::
+:::
+:::
+
+::: {.box-text}
+::: {.box-container}
+::: {.box-block .color-background}
+
+  
+  
+::: {.grid}
+
+::: {.g-col-6}
+# First column 
+I would like to have text here
+askljdsakljdhsalkdjasjdbskajdbasdjbaskjbgkdjngjkslhsfhsdkjfblkdsjfbdskjfbdskfjbdsjkfbdsjkfndskfjnbdskfjnsdfnsdjfkjfdsn
+:::
+  
+::: {.g-col-6}
+![](imgs/perro.jpg){.img}
+:::
+  
+:::  
+
+:::
+:::
 :::
 
 
-::: {.bottom-left}
-# Bienvenido al protocolo para verificaciones en prototipos 3D
 
-### Creado por estudiantes para 
-Crea modelos en [Gravity Sketch](https://www.gravitysketch.com/) y evalúalos.
+::: {.content-container}
+::: {.header-block}
 
-::: {button}
-[Descárgalo](/practicas.qmd){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
-::: 
+# Proyecto de grado desarrollado por
+::: {.row}
+
+::: {.column}
+![](imgs/perro.jpg){.img-circle}
+
+Maria Alejandra Parra Ariza
+:::
+::: {.column}
+![](imgs/perro.jpg){.img-circle}
+
+Darly Tatiana Herreño Amaya
+:::
+
+:::
+
+[**Director**]{style="text-decoration: underline;"}  
+Vaslak Rojas Torres
+
+[**Codirector**]{style="text-decoration: underline;"}  
+Luis Eduardo Bautista Rojas
 :::
 :::
+
+
+
+
+
+
+
+
 
 
 <!-- ```{=html}
