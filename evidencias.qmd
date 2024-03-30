@@ -1,6 +1,37 @@
 ---
-title: "Galería"
-
+pagetitle: "Galería"
+css: evidencias.css
+page-layout: article
 ---
 
+:::{.column-screen}
+```{=html}
+<div class="wrapper">
+    <div class="container">
+    <div class="marquee">
+        <div>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+            <span><img src="imgs/galeria/img-1.jpeg"></span>
+        </div>
+    </div>
+    </div>
+</div>
+
+```
+:::
+
+
+:::{.column-body-outset}
+# Galería
 somos gente
+:::

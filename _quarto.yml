@@ -4,6 +4,7 @@ project:
 website:
   title: "protocolo.github.io"
   navbar:
+    class: "light"
     right:
       - text: "Inicio"
         href: "index.qmd"
@@ -18,7 +19,8 @@ website:
         href: https://github.com/protocoloVR/protocoloVR.github.io
 format:
   html:
-    theme: cosmo
+    theme: 
+    - cosmo
     css: styles.css
 
 editor: visual
