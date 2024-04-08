@@ -2,6 +2,9 @@
 format:
   html:
     toc: false
+    grid:
+      body-width: 1000px
+      
 search: false
 execute:
   echo: false
@@ -11,7 +14,6 @@ listing:
     contents: practicas.yml
 ---
 
-:::{.column-body-outset}
 
 # Protocolo VIMO
 Prepárate para crear y evaluar propuestas de diseño con Realidad Virtual y nuestro protocolo de verificaciones de diseño VIMO (Verificaciones Inmersivas en el Modelado de Objetos), diseñado para que desarrolles nuevas habilidades a través de una experiencia Inmersiva en el proceso de diseño. Dirigido a estudiantes y docentes de Diseño Industrial, y otras disciplinas creativas, el protocolo VIMO te guiara paso por paso en la construcción controlada y verificación de bocetos y prototipos inmersivos con Gravity Sketch. 
@@ -31,4 +33,3 @@ Lleva tu creatividad y la pasión de diseñar a otra dimensión.
 </a>
 <!-- class="button-34" -->
 
-:::
