@@ -1,6 +1,6 @@
 ---
 pagetitle: "Inicio"
-css: index.css
+css: css/index.css
 page-layout: custom
 section-divs: false
 ---
@@ -8,7 +8,7 @@ section-divs: false
 ::: {.hero-banner}
 ::: {}
 <video playsinline autoplay muted loop>
-     <source src="imgs/video.mp4" type="video/mp4">
+     <source src="imgs/banner.mp4" type="video/mp4">
     Tu navegador no soporta reproducción de videos.
 </video>
 
@@ -16,9 +16,9 @@ section-divs: false
 
 
 ::: {.hero-text}
-# Bienvenido al protocolo para verificaciones de diseño en prototipos 3D
+# Bienvenido al protocolo de diseño VIMO: Verificaciones Inmersivas en el Modelado de Objetos
 
-Crea modelos y evalúalos en Realidad Virtual con [Gravity Sketch](https://www.gravitysketch.com/)
+Construye, verifica y presenta Prototipos virtuales con **[Gravity Sketch](https://www.gravitysketch.com/)**
 
 [Descárgalo aquí](/practicas.qmd){.button-34  role="button"}
 :::
@@ -29,52 +29,124 @@ Crea modelos y evalúalos en Realidad Virtual con [Gravity Sketch](https://www.g
 ::: {.content-container}
 ::: {.header-block}
 
-**Sigilosa** al pasar
-Sigilosa al pasar
-Esa loba es especial
-Mírala caminar, caminar
 
-¿Quién no ha querido una diosa licántropa
-En el ardor de una noche romántica?
-Mis aullidos son el llamado
-Yo quiero un lobo domesticado
+::: {.parrafo}
+# Presentamos el protocolo VIMO
 
-Al fin he encontrado un remedio infalible que borre del todo la culpa
-No pienso quedarme a tu lado mirando la tele y oyendo disculpas
-La vida me ha dado un hambre voraz, y tú apenas me das caramelos, ay
-Me voy con mis piernas y mi juventud por allá, aunque te maten los celos
+Dirigido a estudiantes, docentes y otros creativos de Diseño Industrial
+:::
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+<ul class="lista">
+    <li style="--accent-color:#8823c7">
+        <div class="icon"><span class="material-symbols-outlined">deployed_code</span></div>
+        <div class="title">Modelar</div>
+        <div class="descr">Construye bocetos y prototipos inmersivos de tus propuestas</div>
+    </li>
+    <li style="--accent-color:#bb11af">
+        <div class="icon"><span class="material-symbols-outlined">place_item</span></div>
+        <div class="title">Importar</div>
+        <div class="descr">Usa imágenes y modelos de referencia de otros programas</div>
+    </li>
+    <li style="--accent-color:#ea0099">
+        <div class="icon"><span class="material-symbols-outlined">brush</span></div>
+        <div class="title">Customizar</div>
+        <div class="descr">Aplica color y texturas de material como desees</div>
+    </li>
+    <li style="--accent-color:#f46861">
+        <div class="icon"><span class="material-symbols-outlined">landscape_2</span></div>
+        <div class="title">Ambientar</div>
+        <div class="descr">Crea presentaciones creativas y escenarios de uso</div>
+    </li>
+    <li style="--accent-color:#FCBA35">
+        <div class="icon"><span class="material-symbols-outlined">ios_share</span></div>
+        <div class="title">Exportar</div>
+        <div class="descr">Refina tus prototipos inmersivos en otros programas</div>
+    </li>
+</ul>
+
 :::
 :::
 :::
 
-::: {.box-text}
-::: {.box-container}
-::: {.box-block .color-background}
+:::{.column-screen}
 
-  
-  
-::: {.grid}
+```{=html}
+<div class="wrapper">
+    <div class="container">
+    <div class="marquee">
+        <div>
+            <span><img src="imgs/evidencias/0.png"><span>
+            <span><img src="imgs/evidencias/1.png"><span>
+            <span><img src="imgs/evidencias/2.png"><span>
+            <span><img src="imgs/evidencias/3.png"><span>
+            <span><img src="imgs/evidencias/4.png"><span>
+            <span><img src="imgs/evidencias/5.png"><span>
+            <span><img src="imgs/evidencias/6.png"><span>
+            <span><img src="imgs/evidencias/7.png"><span>
+            <span><img src="imgs/evidencias/8.png"><span>
+            <span><img src="imgs/evidencias/9.png"><span>
+            <span><img src="imgs/evidencias/11.png"><span>
+            <!-- se repite -->
+            <span><img src="imgs/evidencias/0.png"><span>
+            <span><img src="imgs/evidencias/1.png"><span>
+            <span><img src="imgs/evidencias/2.png"><span>
+            <span><img src="imgs/evidencias/3.png"><span>
+            <span><img src="imgs/evidencias/4.png"><span>
+            <span><img src="imgs/evidencias/5.png"><span>
+            <span><img src="imgs/evidencias/6.png"><span>
+            <span><img src="imgs/evidencias/7.png"><span>
+            <span><img src="imgs/evidencias/8.png"><span>
+            <span><img src="imgs/evidencias/9.png"><span>
+            <span><img src="imgs/evidencias/11.png"><span>
+            <span><img src="imgs/evidencias/0.png"><span>
+            <span><img src="imgs/evidencias/1.png"><span>
+            <span><img src="imgs/evidencias/1.png"><span>
+        </div>
+    </div>
+    </div>
+</div>
 
-::: {.g-col-6}
-# First column 
-I would like to have text here
-askljdsakljdhsalkdjasjdbskajdbasdjbaskjbgkdjngjkslhsfhsdkjfblkdsjfbdskjfbdskfjbdsjkfbdsjkfndskfjnbdskfjnsdfnsdjfkjfdsn
+```
 :::
-  
-::: {.g-col-6}
-![](imgs/perro.jpg){.img}
-:::
-  
-:::  
 
-:::
-:::
-:::
-
-
-
+::: {.header-text} 
 ::: {.content-container}
 ::: {.header-block}
+
+<!-- inicia grid-->
+:::{.grid}
+:::{.g-col-6}
+:::{.big-h1}
+
+# Lleva tus prototipos inmersivos y Gravity Sketch al siguiente nivel
+
+#### Explora y refina tus ideas antes de hacerlas realidad!
+
+:::
+:::
+
+
+:::{.g-col-6}
+* Aprovecha al máximo tu cuenta educativa y sumérgete en el bocetado inmersivo 
+* Crea o únete a Salas colaborativas y experimenta en equipo
+* Crea un mundo de alternativas 
+* Haz que tus prototipos cobren vida modelando ambientes inmersivos
+* Registra tu proceso en Bitácoras 3D 
+* Diseña diagramas y escenarios de uso para tus prototipos 
+* Realiza análisis comparativos y morfológicos de componentes
+* Transmite en vivo y lleva el bocetado inmersivo a otros espacios
+:::
+:::
+<!-- termina grid -->
+
+
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.header-block-borderless}
 
 # Proyecto de grado desarrollado por
 ::: {.row}
@@ -82,21 +154,23 @@ askljdsakljdhsalkdjasjdbskajdbasdjbaskjbgkdjngjkslhsfhsdkjfblkdsjfbdskjfbdskfjbd
 ::: {.column}
 ![](imgs/estudiantes/Alejandra.png){.img-circle}
 
-Maria Alejandra Parra Ariza
+#### **Maria Alejandra Parra Ariza**
+Estudiante de Diseño Industrial
 :::
 ::: {.column}
 ![](imgs/estudiantes/Darly.png){.img-circle}
 
-Darly Tatiana Herreño Amaya
+#### **Darly Tatiana Herreño Amaya**
+Estudiante de Diseño Industrial
 :::
 
 :::
 
 [**Director**]{style="text-decoration: underline;"}  
-Vaslak Rojas Torres
+MS Vaslak Rojas Torres
 
 [**Codirector**]{style="text-decoration: underline;"}  
-Luis Eduardo Bautista Rojas
+PhD Luis Eduardo Bautista Rojas
 :::
 :::
 

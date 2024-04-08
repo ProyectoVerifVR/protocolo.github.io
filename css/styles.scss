@@ -1,0 +1,17 @@
+
+/*-- scss:defaults --*/
+$primary-color: #8704bf;
+$secondary-color: #bb11af;
+$terciary-color: #FCBA35;
+
+/*-- scss:rules --*/
+.navbar-nav a, title{
+
+
+    &.active {
+      color: $primary-color !important; // Color para el enlace en la página activa
+    }
+    &:hover {
+        color: lighten($secondary-color, 10%) !important; // Cambiar el color al hacer hover
+    }
+  }

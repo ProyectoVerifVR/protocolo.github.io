@@ -1,37 +1,120 @@
 ---
 pagetitle: "Galería"
-css: evidencias.css
+css: css/evidencias.css
 page-layout: article
 ---
 
-:::{.column-screen}
-```{=html}
-<div class="wrapper">
-    <div class="container">
-    <div class="marquee">
-        <div>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-            <span><img src="imgs/galeria/img-1.jpeg"></span>
-        </div>
-    </div>
-    </div>
-</div>
 
-```
+
+:::{.column-page}
+# Galería
+:::{.grid}
+
+
+:::{.g-col-4}
+![](imgs/galeria/image00-r.jpeg){.gallery-image}
 :::
 
 
-:::{.column-body-outset}
-# Galería
-somos gente
+:::{.g-col-4}
+![](imgs/galeria/image01.jpeg){.gallery-image}
+:::
+
+
+:::{.g-col-4}
+![](imgs/galeria/image02.jpeg){.gallery-image}
+:::
+
+
+
+
+<!-- pokemons -->
+:::{.g-col-6}
+![](imgs/galeria/po0.png){.gallery-image}
+:::
+:::{.g-col-6}
+![](imgs/galeria/po1.png){.gallery-image}
+:::
+
+<!-- pokemons -->
+
+:::{.g-col-4}
+![](imgs/galeria/image04.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image05.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image18.jpeg){.gallery-image}
+:::
+
+
+:::{.g-col-4}
+![](imgs/galeria/image06.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image07.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image08.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image09.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image10.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image11.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image12.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image20.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image19.jpeg){.gallery-image}
+:::
+
+
+:::{.g-col-4}
+![](imgs/galeria/image14.jpeg){.gallery-image}
+:::
+
+
+:::{.g-col-4}
+![](imgs/galeria/image15.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image16.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image17.jpeg){.gallery-image}
+:::
+
+
+
+:::{.g-col-4}
+![](imgs/galeria/image13.jpeg){.gallery-image}
+:::
+
+:::{.g-col-4}
+![](imgs/galeria/image21.jpeg){.gallery-image}
+:::
+
+
+:::
 :::

@@ -1,5 +1,4 @@
 ---
-title: "Protocolo"
 format:
   html:
     toc: false
@@ -8,39 +7,28 @@ execute:
   echo: false
 listing:
   - id: practicas
-    template: practicas.ejs
+    template: js/practicas.ejs
     contents: practicas.yml
-description:
-  imagenes no se que
 ---
 
-¡Don!
-And another one, that's right
-¡Don! (¡Don!)
-Dominicans, boricuas, hands up (¡Don!, ¡Don!)
-On your feet everybody, come on
-No hay pa' nadie pa', y me fui con los bachatero'
-Aventura
-Nasty
-Let me find out
+:::{.column-body-outset}
 
-# Recomendaciones previas
+# Protocolo VIMO
+Prepárate para crear y evaluar propuestas de diseño con Realidad Virtual y nuestro protocolo de verificaciones de diseño VIMO (Verificaciones Inmersivas en el Modelado de Objetos), diseñado para que desarrolles nuevas habilidades a través de una experiencia Inmersiva en el proceso de diseño. Dirigido a estudiantes y docentes de Diseño Industrial, y otras disciplinas creativas, el protocolo VIMO te guiara paso por paso en la construcción controlada y verificación de bocetos y prototipos inmersivos con Gravity Sketch. 
 
-[Verso 1: Don Omar & Romeo Santos]
-Ella y yo
-Dos locos viviendo una aventura castigada por Dios
-Un laberinto sin salida donde el miedo se convierte en amor
-Somos su marido, ella y yo
-Mi esposa y yo
-Igual que ustedes, compartimos en la vida un eterno amor
-La dama perfecta, toda una belleza, ella es mi inspiración
-Somos feliz ella y yo, ella y yo
-Amigo, ella y yo
-Solos nos vemo' a escondidas para ahogar esta prohibida pasión
-Y aunque tiene dueño, yo solo tengo un sueño: ser su protector
-Somos su marido, ella y yo
+Lleva tu creatividad y la pasión de diseñar a otra dimensión.
+
+## Recomendaciones previas
+
+1. Verificar la carga del dispositivo: Asegúra que el dispositivo de Realidad Virtual esté completamente cargado. Recuerda, la duración máxima de la batería al utilizar Gravity Sketch es de aproximadamente 3 horas.
+2. Crea tu cuenta en LandingPad: Crea una cuenta educativa en LandingPad (landingpad.me) para almacenar archivos de referencia, modelos creados en Gravity Sketch y colaborar con otros usuarios en salas LandingPad Collab.
+3. Importa recursos: Importa el protocolo de verificaciones VIMO y los recursos de trabajo necesarios (imágenes y/o modelos de referencia) a tu cuenta de LandingPad antes de comenzar su sesión en Gravity Sketch.
+4. Optimiza imágenes y modelos: Mante las imágenes por debajo de 2048x2048 px y los modelos por en formato .obj por debajo de 10.000 polígonos para importar al entorno virtual. 
+5. Realiza pausas de descanso: Toma descansos cada 30 minutos a 1 hora durante el uso de la herramienta de RV para reducir la fatiga ocular. Si experimentas malestar constante, para la actividad, cuida tu salud.
 
 <a href="imgs/perro.zip" download="protocolo">
-<button >Descarga el Protocolo completo</button> 
+<button >Descarga el Protocolo completo <i class="bi bi-download"></i></button> 
 </a>
 <!-- class="button-34" -->
+
+:::

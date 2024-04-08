@@ -2,13 +2,16 @@ project:
   type: website
 
 website:
-  title: "protocolo.github.io"
+  search: false 
   navbar:
     class: "light"
+    title: "VIMO"
+    # logo: imgs/logo.png
     right:
       - text: "Inicio"
         href: "index.qmd"
-      - practicas.qmd
+      - text: "Protocolo"
+        href: practicas.qmd
       - evidencias.qmd
       - about.qmd
   page-footer:
@@ -20,8 +23,10 @@ website:
 format:
   html:
     theme: 
+    - css/styles.scss
     - cosmo
-    css: styles.css
+    
+    css: css/styles.css
 
 editor: visual
 
