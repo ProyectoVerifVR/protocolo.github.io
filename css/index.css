@@ -227,7 +227,7 @@ video {
     padding-bottom: 0.5em;
   }
 
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 1000px) {
     .img-circle {
       width: 20vh; 
       height: 20vh; 
@@ -265,6 +265,14 @@ video {
 
 .grid {
   column-gap: 0;
+}
+
+.g-col-12{
+  margin-left: 1rem;
+}
+
+.g-col-12 ul{
+  margin-left: 1rem;
 }
   
 

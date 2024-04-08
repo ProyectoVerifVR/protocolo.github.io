@@ -31,7 +31,7 @@ Construye, verifica y presenta Prototipos virtuales con **[Gravity Sketch](https
 
 
 ::: {.parrafo}
-# Presentamos el protocolo VIMO
+# Presentamos el Protocolo VIMO
 
 Dirigido a estudiantes, docentes y otros creativos de Diseño Industrial
 :::
@@ -53,12 +53,12 @@ Dirigido a estudiantes, docentes y otros creativos de Diseño Industrial
         <div class="title">Customizar</div>
         <div class="descr">Aplica color y texturas de material como desees</div>
     </li>
-    <li style="--accent-color:#f46861">
+    <li style="--accent-color:#f55849">
         <div class="icon"><span class="material-symbols-outlined">landscape_2</span></div>
         <div class="title">Ambientar</div>
         <div class="descr">Crea presentaciones creativas y escenarios de uso</div>
     </li>
-    <li style="--accent-color:#FCBA35">
+    <li style="--accent-color:#ffaa00">
         <div class="icon"><span class="material-symbols-outlined">ios_share</span></div>
         <div class="title">Exportar</div>
         <div class="descr">Refina tus prototipos inmersivos en otros programas</div>
@@ -116,7 +116,7 @@ Dirigido a estudiantes, docentes y otros creativos de Diseño Industrial
 
 <!-- inicia grid-->
 :::{.grid}
-:::{.g-col-6}
+:::{.g-col-12 .g-col-lg-6}
 :::{.big-h1}
 
 # Lleva tus prototipos inmersivos y Gravity Sketch al siguiente nivel
@@ -127,7 +127,7 @@ Dirigido a estudiantes, docentes y otros creativos de Diseño Industrial
 :::
 
 
-:::{.g-col-6}
+:::{.g-col-12 .g-col-lg-6}
 * Aprovecha al máximo tu cuenta educativa y sumérgete en el bocetado inmersivo 
 * Crea o únete a Salas colaborativas y experimenta en equipo
 * Crea un mundo de alternativas 

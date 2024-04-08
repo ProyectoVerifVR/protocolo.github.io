@@ -70,18 +70,6 @@
     color: #7b56f5; /* Cambia el color del texto de los hipervínculos a morado */
 }
 
-.row {
-  justify-content: center;
-  display: flex;
-  text-align: center;
-  align-items: center;
-}
-
-  .column {
-    display: flex;
-    justify-content: center;
-    overflow-x: hidden;
-}
 
 .img-circle{
   width: 17vw; /*adaptable al viewport*/
@@ -90,4 +78,3 @@
   object-fit: cover;
   padding-bottom: 0.5em;
 }
-

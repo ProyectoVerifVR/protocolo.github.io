@@ -1,5 +1,6 @@
 ---
 title: "Sobre nosotras"
+css: css/about.css
 about:
   template: jolla
   links:
@@ -27,5 +28,6 @@ Estudiante de Diseño Industrial
 :::
 :::
 :::
-Hola, aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+Texto
+
 

@@ -1,0 +1,40 @@
+
+
+  .img-circle{
+    width: 18vw; /*adaptable al viewport*/
+    height: 18vw;
+    border-radius: 50%;
+    object-fit: cover;
+    padding-bottom: 0.5em;
+  }
+
+  @media only screen and (max-width: 767px) {
+    .img-circle {
+      width: 15vh; 
+      height: 15vh; 
+    }
+
+    .column h4{
+      max-width: 200px;
+    }
+    
+    .column p{
+      max-width: 200px;
+    }
+  }
+
+
+  .row {
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    align-items: center;
+  }
+  
+    .column {
+      display: flex;
+      justify-content: center;
+      overflow-x: hidden;
+      margin-left: 20px; 
+      margin-right: 20px; 
+  }

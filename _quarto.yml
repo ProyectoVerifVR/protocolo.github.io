@@ -5,7 +5,7 @@ website:
   search: false 
   navbar:
     class: "light"
-    title: "VIMO"
+    title: "Protocolo VIMO"
     # logo: imgs/logo.png
     right:
       - text: "Inicio"
