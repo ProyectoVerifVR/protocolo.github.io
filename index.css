@@ -11,6 +11,7 @@
   position: relative;
   width: 100%;
   text-align: left;
+  margin-right: 1.5rem;
   /* background: url(test.gif)50% repeat;
     background-size: cover; */
 }
@@ -124,11 +125,26 @@ video {
   }
 
   .img-circle{
-    width: 200px;
-    height: 200px;
+    width: 17vw; /*adaptable al viewport*/
+    height: 17vw;
     border-radius: 50%;
     object-fit: cover;
     padding-bottom: 0.5em;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .img-circle {
+      width: 20vh; 
+      height: 20vh; 
+    }
+
+    .column h4{
+      font-size: 17px;
+    }
+    
+    .column p{
+      font-size: 15px;
+    }
   }
 
 

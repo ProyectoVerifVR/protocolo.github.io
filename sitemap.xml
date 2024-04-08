@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://protocoloVR.github.io/index.html</loc>
-    <lastmod>2024-03-30T23:54:23.993Z</lastmod>
+    <loc>https://protocolo-vimo.github.io/about.html</loc>
+    <lastmod>2024-04-08T05:15:26.791Z</lastmod>
   </url>
   <url>
-    <loc>https://protocoloVR.github.io/practicas.html</loc>
-    <lastmod>2024-03-30T23:54:23.993Z</lastmod>
+    <loc>https://protocolo-vimo.github.io/modelo.html</loc>
+    <lastmod>2024-04-08T05:15:27.223Z</lastmod>
   </url>
   <url>
-    <loc>https://protocoloVR.github.io/evidencias.html</loc>
-    <lastmod>2024-03-30T23:54:23.853Z</lastmod>
+    <loc>https://protocolo-vimo.github.io/practicas.html</loc>
+    <lastmod>2024-04-08T05:15:27.223Z</lastmod>
   </url>
   <url>
-    <loc>https://protocoloVR.github.io/about.html</loc>
-    <lastmod>2024-03-30T23:54:23.853Z</lastmod>
+    <loc>https://protocolo-vimo.github.io/index.html</loc>
+    <lastmod>2024-04-08T05:15:27.223Z</lastmod>
+  </url>
+  <url>
+    <loc>https://protocolo-vimo.github.io/evidencias.html</loc>
+    <lastmod>2024-04-08T05:15:26.791Z</lastmod>
   </url>
 </urlset>
