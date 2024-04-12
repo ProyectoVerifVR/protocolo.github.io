@@ -25,6 +25,7 @@ Construye, verifica y presenta Prototipos virtuales con **[Gravity Sketch](https
 :::
 :::
 
+
 ::: {.header-text} 
 ::: {.content-container}
 ::: {.header-block}
