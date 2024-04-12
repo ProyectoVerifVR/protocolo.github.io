@@ -2,23 +2,46 @@
   description: |
     Descarga la sección que requieras
   tiles:
-    - title: Antes de
-      subtitle: aa
-      href: imgs/perro.jpg
-      thumbnail: imgs/perro.jpg
-    - title: Preparar
-      subtitle: for high quality print
-      href: imgs/perro.jpg
-      thumbnail: imgs/perro.jpg
+    - title: Introducción
+      subtitle: a controles y gestos
+      href: imgs/protocolo/0_introduccion.png
+      thumbnail: imgs/protocolo/0_introduccion.png
+    - title: Entorno de trabajo
+      subtitle: Importar/configurar
+      href: imgs/protocolo/1_entorno_trabajo.png
+      thumbnail: imgs/protocolo/1_entorno_trabajo.png
     - title: Construir
-      subtitle: for Office workflows
-      href: imgs/perro.jpg
-      thumbnail: imgs/perro.jpg
-    - title: No se
-      subtitle: with advanced layout
-      href: imgs/perro.jpg
-      thumbnail: imgs/perro.jpg
-    - title: a
-      subtitle: with advanced layout
-      href: imgs/perro.jpg
-      thumbnail: imgs/perro.jpg
+      subtitle: líneas o sketch
+      href: imgs/protocolo/2_construir_lineas.png
+      thumbnail: imgs/protocolo/2_construir_lineas.png
+    - title: Construir
+      subtitle: superficies
+      href: imgs/protocolo/2_construir_superficies.png
+      thumbnail: imgs/protocolo/2_construir_superficies.png
+    - title: Construir
+      subtitle: volúmenes
+      href: imgs/protocolo/2_construir_volumenes.png
+      thumbnail: imgs/protocolo/2_construir_volumenes.png
+    - title: Manipular modelos
+      subtitle: Trasladar, Duplicar, Escalar, Rotar
+      href: imgs/protocolo/3_manipular_modelos.png
+      thumbnail: imgs/protocolo/3_manipular_modelos.png
+    - title: Editar modelos
+      subtitle: Escalar en un eje, Agrupar, Espesor, SubD
+      href: imgs/protocolo/3_editar_modelos.png
+      thumbnail: imgs/protocolo/3_editar_modelos.png
+    - title: Seleccionar color y material
+      subtitle: directamente o copiado
+      href: imgs/protocolo/4_color_material.png
+      thumbnail: imgs/protocolo/4_color_material.png
+    - title: Agregar elementos
+      subtitle: Contexto, Texto, Dimensiones, Bitácora
+      href: imgs/protocolo/5_elementos_tecnicos_contexto.png
+      thumbnail: imgs/protocolo/5_elementos_tecnicos_contexto.png
+    - title: Guardar y exportar
+      subtitle: Formatos y compatibilidad
+      href: imgs/protocolo/6_guardar_exportar.png
+      thumbnail: imgs/protocolo/6_guardar_exportar.png
+    - title: Otras herramientas de Gravity Sketch
+      href: imgs/protocolo/7_otras_herramientas.png
+      thumbnail: imgs/protocolo/7_otras_herramientas.png
